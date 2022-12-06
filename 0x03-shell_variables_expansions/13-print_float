@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a. .z}{a. .z} | tr " " "\n" | grep -v "00"
+echo {2.31}{2.31} | tr " " "\n" | grep -v "00"
